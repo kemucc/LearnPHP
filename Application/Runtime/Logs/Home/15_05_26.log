@@ -1,0 +1,18 @@
+[ 2015-05-26T15:38:35+08:00 ] 171.106.48.62 /default/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'learnPHP.article_view' doesn't exist
+
+[ 2015-05-26T15:38:38+08:00 ] 171.106.48.62 /default/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'learnPHP.article_view' doesn't exist
+
